@@ -1,5 +1,5 @@
-Archivo README - Proyecto Blockchain
-¡Bienvenido a tu proyecto de Blockchain! A continuación, encontrarás información importante sobre el código y cómo utilizarlo.
+Archivo README - Proyecto Blockchain.
+ A continuación, encontrarás información importante sobre el código y cómo utilizarlo.
 
 Descripción
 Este proyecto implementa un ejemplo básico de una cadena de bloques (blockchain) utilizando Python. La cadena de bloques contiene bloques que registran transacciones entre diferentes billeteras (wallets). Cada bloque contiene un conjunto de transacciones y está asegurado mediante cálculos hash y la estructura de un árbol de Merkle.
