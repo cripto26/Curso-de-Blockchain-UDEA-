@@ -5,7 +5,7 @@ Descripción
 Este proyecto implementa un ejemplo básico de una cadena de bloques (blockchain) utilizando Python. La cadena de bloques contiene bloques que registran transacciones entre diferentes billeteras (wallets). Cada bloque contiene un conjunto de transacciones y está asegurado mediante cálculos hash y la estructura de un árbol de Merkle.
 
 Uso
-Ejecución del Código: Para ejecutar el código, simplemente coloca el fragmento en un archivo Python y asegúrate de tener la librería hashlib instalada (puedes instalarla con pip install hashlib).
+Ejecución del Código: Para ejecutar el código, procure tener una version de python actualiza como Python 3.11.4 y  simplemente coloca el fragmento en un archivo Python y asegúrate de tener la librería hashlib instalada (puedes instalarla con pip install hashlib).
 
 Ejemplo de Uso: El código proporciona un ejemplo de uso simulando una cadena de bloques con transacciones y la creación de bloques. Puedes utilizarlo como guía para comprender cómo funciona la implementación.
 
